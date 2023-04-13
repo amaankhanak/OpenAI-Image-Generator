@@ -8,7 +8,7 @@ const openai = new OpenAIApi(configuration);
 
 const generateImage = async (req, res) => {
   try {
-    // 11:32
+    // trycatch
   } catch (error) {}
 };
 
